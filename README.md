@@ -23,7 +23,7 @@ Le dossier "cours_code contient 4 sous dossier et 2 fichiers:
 ### Personne qui ont contribué au cours
 * AUTOLUS Wilnette
 * DA COSTA Claudia
-*GAUDE Felix
+* GAUDE Felix
 
 
 ### Contexte du cours
